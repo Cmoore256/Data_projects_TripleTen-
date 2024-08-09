@@ -3,7 +3,7 @@
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
-| Project number | Title | Description | Link |
+| Project number | Title | Description | Readme File Link |
 | :-----------: | ----------- |----------- | ----------- |
 | 1 | Return Rate Analysis | The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. | https://docs.google.com/document/d/1eBOpYw90liY69pvoUkeYv49N-alH81wX6o7KcP_8TTw/edit?usp=sharing |
 | 2 | Zomato Dashboard | The project task was to prepare a research plan to use for building a dashboard to analyze resturant spending trends | https://docs.google.com/document/d/12OCVN_nwQXPGVJFF1vpYwf009bbPvuuLr5M6tc6s-ng/edit?usp=sharing |
